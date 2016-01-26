@@ -1,7 +1,7 @@
 # PKequal
 matter power spectrum equivalence
 
------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 REFERENCES:
 If you use PKequal please refer our papers:
  
@@ -13,6 +13,9 @@ equation of state'
 L. Casarini, S. A. Bonometto, E. Tessarotto b and P.-S. Corasaniti, arXiv:
 
 and in case you use, the COSMOMC/CAMB and FrankEmu papers according to:
+
 http://cosmologist.info/cosmomc/http://cosmologist.info/cosmomc/
+
 http://camb.info/readme.html
+
 http://www.hep.anl.gov/cosmology/CosmicEmu/emu.htmlhttp://www.hep.anl.gov/cosmology/CosmicEmu/emu.html
