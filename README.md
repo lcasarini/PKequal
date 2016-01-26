@@ -59,5 +59,4 @@ http://cosmologist.info/cosmomc/http://cosmologist.info/cosmomc/
 
 http://camb.info/readme.html
 
-http://www.hep.anl.gov/cosmology/CosmicEmu/emu.htmlhttp://www.hep.anl.
-gov/cosmology/CosmicEmu/emu.html
+http://www.hep.anl.gov/cosmology/CosmicEmu/emu.html
