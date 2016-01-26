@@ -52,7 +52,7 @@ arXiv:0810.0190[astro-ph.CO], JCAP 0903, 014 (2009)
 w_0-w_a parametrization of the equation of state' L. Casarini, S. A. 
 Bonometto, E. Tessarotto and P.-S. Corasaniti, arXiv:
 
-and in case you use the COSMOMC/CAMB and FrankEmu cite the papers 
+and in case you use the COSMOMC/CAMB or FrankenEmu cite the papers 
 indicated in:
 
 http://cosmologist.info/cosmomc/http://cosmologist.info/cosmomc/
