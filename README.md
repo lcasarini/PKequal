@@ -3,6 +3,7 @@ matter power spectrum equivalence
 
 ------------------------------------------------------------------------------------------------------
 REFERENCES:
+
 If you use PKequal please refer our papers:
  
 'Dynamical Dark Energy simulations: high accuracy Power Spectra at high redshift'
@@ -12,7 +13,7 @@ L. Casarini, A. V. Macció and S. A. Bonometto, arXiv:0810.0190[astro-ph.CO], JC
 equation of state' 
 L. Casarini, S. A. Bonometto, E. Tessarotto b and P.-S. Corasaniti, arXiv:
 
-and in case you use, the COSMOMC/CAMB and FrankEmu papers according to:
+and in case you use the COSMOMC/CAMB and FrankEmu cite the papers indicated in:
 
 http://cosmologist.info/cosmomc/http://cosmologist.info/cosmomc/
 
