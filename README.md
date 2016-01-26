@@ -35,7 +35,8 @@ http://www.hep.anl.gov/cosmology/CosmicEmu/emu.html and compile it.
 2.3 - modify the lines 5 and 6 of emu_w0_wa.sh putting the paths of 
 the exe files of FrankenEmu and pkequal. 
 
-2.4 - make emu_w0_wa.sh executable: chmod +x emu_w0_wa.sh and use it.
+2.4 - make emu_w0_wa.sh executable:
+digit 'chmod +x emu_w0_wa.sh' and use it.
 
 
 ------------------------------------------------------------------------
