@@ -5,9 +5,9 @@ DESCRIPTION:
 
 PKequal is a package that implements the spectral equivalence 
 described in Casarini, Macció and Bonometto (2009), and Casarini, 
-Tessarotto and Corasaniti (2016), in order to provide a prediction 
-of non linear matter power spectrum for varying equation of state 
-models.
+Bonometto, Tessarotto and Corasaniti (2016), in order to provide a 
+prediction of non linear matter power spectrum for varying equation of 
+state models.
 
 ------------------------------------------------------------------------
 INSTRUCTIONS:
