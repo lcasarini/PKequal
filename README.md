@@ -19,10 +19,11 @@ You can use PKequal in 2 ways:
 
 1.1 - download CAMB from http://camb.info/CAMBsubmit.html or COSMOMC 
 from http://cosmologist.info/cosmomc/submit.html and substitute 
-halofit_ppf.f90 in the camb directory with the original one.
+halofit_ppf_pke.f90 in the camb directory with the halofit_ppf.f90.
 
-1.2 - compile the code, including halofit_ppf.f90 in the 
-Makefile_main with the original equations_ppf.f90 as usual in CAMB.
+1.2 - compile the code, including halofit_ppf_pke.f90 and the original 
+equations_ppf.f90 conforming the Makefile_main, as usual when you use
+CAMB with PPF module.
 
 
 2 - with FrankenEmu: 
