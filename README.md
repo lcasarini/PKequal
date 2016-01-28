@@ -22,8 +22,8 @@ from http://cosmologist.info/cosmomc/submit.html and substitute
 halofit_ppf_pke.f90 in the camb directory with the halofit_ppf.f90.
 
 1.2 - compile the code, including halofit_ppf_pke.f90 and the original 
-equations_ppf.f90 conforming the Makefile_main, as usual when you use
-CAMB with PPF module.
+equations_ppf.f90 conforming with the Makefile_main, as usual when you 
+use CAMB with PPF module.
 
 
 2 - with FrankenEmu: 
