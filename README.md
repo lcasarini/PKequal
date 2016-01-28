@@ -15,7 +15,7 @@ INSTRUCTIONS:
 You can use PKequal in 2 ways:
 
 
-1 - with CAMB/COSMOMC:
+1 - with CAMB/COSMOMC, extending the revised Halofit (Takahashi+ 2012): 
 
 1.1 - download CAMB from http://camb.info/CAMBsubmit.html or COSMOMC 
 from http://cosmologist.info/cosmomc/submit.html and substitute 
@@ -26,7 +26,7 @@ equations_ppf.f90 conforming with the Makefile_main, as usual when you
 use CAMB with PPF module.
 
 
-2 - with FrankenEmu: 
+2 - with FrankenEmu, extending the Coyote emulator: 
 
 2.1 - download the FrankenEmu from 
 http://www.hep.anl.gov/cosmology/CosmicEmu/emu.html and compile it. 
