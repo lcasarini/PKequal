@@ -51,7 +51,8 @@ arXiv:0810.0190[astro-ph.CO], JCAP 0903, 014 (2009)
 
 'Extending the Coyote emulator to dark energy models with standard 
 w_0-w_a parametrization of the equation of state' L. Casarini, S. A. 
-Bonometto, E. Tessarotto and P.-S. Corasaniti, arXiv:
+Bonometto, E. Tessarotto and P.-S. Corasaniti, 
+arXiv:1601.07230[astro-ph.CO] 
 
 and in case you use the COSMOMC/CAMB or FrankenEmu cite the papers 
 indicated in:
