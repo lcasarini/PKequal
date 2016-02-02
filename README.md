@@ -57,7 +57,7 @@ arXiv:1601.07230[astro-ph.CO]
 and in case you use the COSMOMC/CAMB or FrankenEmu cite the papers 
 indicated in:
 
-http://cosmologist.info/cosmomc/http://cosmologist.info/cosmomc/
+http://cosmologist.info/cosmomc/
 
 http://camb.info/readme.html
 
