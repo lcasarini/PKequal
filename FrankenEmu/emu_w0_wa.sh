@@ -2,7 +2,7 @@
 
 ####################################################
 #files exe
-pkequal=/home/luciano/astro/pkeq-sims/lib/PKequal-master/PKequal/pkequal
+pkequal=/home/luciano/astro/pkeq-sims/lib/PKequal-master/PKequal/pkequal.exe
 emu=/home/luciano/astro/pkeq-sims/lib/PKequal-master/FrankenEmu/emu.exe
 ####################################################
 
