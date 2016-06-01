@@ -8,9 +8,9 @@ OBJ = pkequal.o dverk.o rombint.o
 
 
 
-all: clean pkequal
+all: clean pkequal.exe
 
-pkequal: $(OBJ)
+pkequal.exe: $(OBJ)
 	$(FC) $(FFLAGS) $(OBJ) -o $@
 
 clean:
