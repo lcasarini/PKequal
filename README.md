@@ -6,7 +6,7 @@ You can use PKequal in 2 ways:
 
 1.1 - download CAMB from https://github.com/luciano-casarini/CAMB (fork of https://github.com/cmbant/CAMB)
 
-1.2 - compile the code including halofit_ppf.f90 and equations_ppf.f90 
+1.2 - compile the code including halofit_ppf.f90 and equations_ppf.f90 in the Makefile
 
 1.3 - execute camb with halofit_version=7 in params.ini file
 
