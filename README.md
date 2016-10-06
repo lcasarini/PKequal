@@ -1,6 +1,6 @@
 DESCRIPTION
 
-PKequal provide predictions of non linear matter power spectrum P(k) of a w0+wa(1-a) models, extending the prescriptions built on w-const models only (for example Halofit or FrankenEmu). This technique was inspired by Francis, Lewis & Linder 2007, who had shown the efficiency at z=0. The extension of the method for every redshift was introduced in Casarini, Macció & Bonometto 2009 and tested for several models trough purely gravitational simulations in Casarini 2010, and including baryon physics in Casarini, Macciò, Bonometto, and Stinson 2011. The code was introduced in Casarini, Bonometto, Tessarotto and Corasaniti 2016.
+PKequal provide predictions of non linear matter power spectrum P(k) of a w0+wa(1-a) models, extending the prescriptions built on w-const models only (for example Halofit or FrankenEmu). This technique was inspired by Francis, Lewis & Linder 2007, who had shown the efficiency at z=0. The extension of the method for every redshift was introduced in Casarini, Macció & Bonometto 2009 and tested for several models through purely gravitational simulations in Casarini 2010, and including baryon physics in Casarini, Macciò, Bonometto, and Stinson 2011. The code was introduced in Casarini, Bonometto, Tessarotto and Corasaniti 2016.
 
 
 INSTRUCTIONS:
