@@ -25,7 +25,8 @@ You can use PKequal in 2 ways:
 
 2.4 - make emu_w0_wa.sh executable: digit 'chmod +x emu_w0_wa.sh' and use it.
 
-REFERENCES:
+
+CREDITS:
 
 If you use PKequal please refer our papers:
 
